@@ -20,7 +20,7 @@ stripped binary executable. Use with care.
 Kompilator prostych skryptów pow³oki. Shc bierze skrypt podany w linii
 polecenia i tworzy kod ¼ród³owy w C. Nastêpnie wygenerowany kod w C
 jest kompilowany i konsolidowany, tworz±c binarny program pozbawiony
-symboli dla debuggera. U¿ywaj±c go nale¿y zachowaæ ostro¿no¶æ. 
+symboli dla debuggera. U¿ywaj±c go nale¿y zachowaæ ostro¿no¶æ.
 
 %prep
 %setup -q
