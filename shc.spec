@@ -1,12 +1,12 @@
 Summary:	Generic shell script compiler
 Summary(pl):	Kompilator prostych skryptów pow³oki
 Name:		shc
-Version:	3.8
+Version:	3.8.2
 Release:	1
 License:	GPL
 Group:		Development/Languages
 Source0:	http://www.datsi.fi.upm.es/~frosal/sources/%{name}-%{version}.tgz
-# Source0-md5:	9285000f7a9389e09d7948af490be1e0
+# Source0-md5:	b2cb72065f1bfab5a4c5d36c1f40770f
 URL:		http://www.datsi.fi.upm.es/~frosal/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
