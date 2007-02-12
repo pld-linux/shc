@@ -1,5 +1,5 @@
 Summary:	Generic shell script compiler
-Summary(pl):	Kompilator prostych skryptów pow³oki
+Summary(pl.UTF-8):   Kompilator prostych skryptÃ³w powÅ‚oki
 Name:		shc
 Version:	3.8.3
 Release:	1
@@ -16,11 +16,11 @@ specified on the command line and produces C source code. The
 generated source code is then compiled and linked to produce a
 stripped binary executable. Use with care.
 
-%description -l pl
-Kompilator prostych skryptów pow³oki. Shc bierze skrypt podany w linii
-polecenia i tworzy kod ¼ród³owy w C. Nastêpnie wygenerowany kod w C
-jest kompilowany i konsolidowany, tworz±c binarny program pozbawiony
-symboli dla debuggera. U¿ywaj±c go nale¿y zachowaæ ostro¿no¶æ.
+%description -l pl.UTF-8
+Kompilator prostych skryptÃ³w powÅ‚oki. Shc bierze skrypt podany w linii
+polecenia i tworzy kod ÅºrÃ³dÅ‚owy w C. NastÄ™pnie wygenerowany kod w C
+jest kompilowany i konsolidowany, tworzÄ…c binarny program pozbawiony
+symboli dla debuggera. UÅ¼ywajÄ…c go naleÅ¼y zachowaÄ‡ ostroÅ¼noÅ›Ä‡.
 
 %prep
 %setup -q
