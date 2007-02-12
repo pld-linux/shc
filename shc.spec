@@ -1,5 +1,5 @@
 Summary:	Generic shell script compiler
-Summary(pl.UTF-8):   Kompilator prostych skryptów powłoki
+Summary(pl.UTF-8):	Kompilator prostych skryptów powłoki
 Name:		shc
 Version:	3.8.3
 Release:	1
